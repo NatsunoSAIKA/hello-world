@@ -1,4 +1,3 @@
-# hello-world
 # I solemnly swear
 # to devote my life and abilities
 # in defence of the United Nations of earth
